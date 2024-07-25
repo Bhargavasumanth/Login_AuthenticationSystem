@@ -16,3 +16,10 @@
 - For styling the interface.
 ### Vanilla JavaScript
 - For implementing authentication logic and form validation.
+
+#### SIGN IN PAGE
+![Screenshot 2024-07-25 231056](https://github.com/user-attachments/assets/0e4cfa2d-1788-41c1-99d2-f1ff15547e4f)
+
+#### SIGN UP PAGE
+![Screenshot 2024-07-25 231113](https://github.com/user-attachments/assets/4a942184-9634-4883-8984-a04806df1440)
+
